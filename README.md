@@ -1,4 +1,4 @@
-# Simulation-with-Inventory-Management-
+# Simulation with Inventory Management
 I. Sampling from Simple Distributions with Numpy
 1. Uniform Distribution
 2. Geometric Distribution
